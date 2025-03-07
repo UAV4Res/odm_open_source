@@ -1,5 +1,5 @@
 
-## Requirements
+## Requirements 
 - **Docker** (required for Linux or Windows installations) [Docker Installation Guide](https://docs.docker.com/get-docker/) .
 - **Python** (latest version 3) corresponding to your OS [Python install Guide](https://www.python.org/downloads)
 
